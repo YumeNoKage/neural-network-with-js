@@ -1,0 +1,1 @@
+to download file https://pjreddie.com/projects/mnist-in-csv
