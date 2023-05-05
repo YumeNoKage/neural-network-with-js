@@ -1,1 +1,1 @@
-to download file https://pjreddie.com/projects/mnist-in-csv
+Download file train & test MNIST here https://pjreddie.com/projects/mnist-in-csv/
